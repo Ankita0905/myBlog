@@ -221,22 +221,7 @@ section aside a
     display: inline;
   }
 
-  /* styles for the equip class */
 
-  .equip
-  {
-    display: inline;
-    float: left;
-    margin-right: 1.5em;
-  }
-
-/* styles for the class items */
-
-.items
-{
-  display: block;
-  list-style-position: inside;
-}
 /* styles for the tablet class */
 
 .tablet
@@ -299,36 +284,6 @@ dt
   padding: 0;
   color: #1d1d1c;
   text-decoration: underline;
-}
-/* styles for the article element */
-article
-{
-  background: linear-gradient(brown, black);
-  float: left;
-  margin: 0.5%;
-  padding: 0.5%;
-  text-align: center;
-  width: 31%;
-}
-/* styles for the images inside the article */
-article img
-{
-  border: solid 0.1em #1d1d1c;
-  margin-left: auto;
-  margin-right: auto;
-}
-/* styles for p tag inside the article */
-article p
-{
-  color: black;
-  margin-top: 2%;
-  padding: 1%;
-  text-align: left;
-}
-/* styles for ul inside the article  */
-article ul
-{
-  text-align: left;
 }
 /* styles for aside element */
 aside
