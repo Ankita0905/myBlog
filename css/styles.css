@@ -127,11 +127,7 @@ main a
 {
   display: none;
 }
-/* styles for the equip class */
-.equip
-{
-  display: none;
-}
+
 
 th,td
 {
@@ -174,8 +170,6 @@ section aside a
     background-color: transparent;
   }
 
-
-
   /* styles for the main */
   main
   {
@@ -189,24 +183,6 @@ section aside a
   h1
   {
     text-align: center;
-  }
-  /* styles for images in figure */
-  figure img
-  {
-    background-color: #1d1d1c;
-    display: inline;
-    height: 8em;
-    width: 28%;
-    margin: 1%;
-    padding: 1%;
-  }
-
-  /* styles for the a tag in figure */
-  figure a
-  {
-    padding: 0;
-    background-color: transparent;
-    text-decoration: none;
   }
 
   /* styles the mobile and desktop class */
@@ -426,18 +402,6 @@ nav
   margin-top: -7em;
 }
 
-/* styles for img inside figure */
-figure img
-{
-  height: 15em;
-  opacity: 0.70;
-}
-
-/* styles removing transperencies */
-figure img:hover
-{
-  opacity: 1;
-}
 /* styles for h1 */
 h1
 {
@@ -493,12 +457,6 @@ table
   background-color: white;
   width: 85%;
 }
-/* styles for the caption */
-caption
-{
-  color: white;
-}
-
 
 * {box-sizing:border-box}
 
